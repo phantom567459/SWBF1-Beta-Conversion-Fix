@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BetaConversionFixBF1": {
+      "commandName": "Project",
+      "commandLineArgs": "nab2ts.lvl nab2rev.lvl -r"
+    }
+  }
+}

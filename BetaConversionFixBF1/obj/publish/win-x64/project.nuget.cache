@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jw2YIs3CdNiDNBT9UbprIW5sEQNpkhXC4Nx45kqkyCgxTrSUO3j5usyJhoyDs6KSNEgZClAFnfyAWnMAhVhHXQ==",
+  "success": true,
+  "projectFilePath": "Z:\\Projects\\BetaConversionFixBF1\\BetaConversionFixBF1\\BetaConversionFixBF1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jacob\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.21\\microsoft.netcore.app.runtime.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Jacob\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.21\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Jacob\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.21\\microsoft.aspnetcore.app.runtime.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

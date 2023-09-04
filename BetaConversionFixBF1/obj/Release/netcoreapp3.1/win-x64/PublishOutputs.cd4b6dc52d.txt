@@ -1,0 +1,2 @@
+Z:\Projects\BetaConversionFixBF1\BetaConversionFixBF1\bin\Release\netcoreapp3.1\publish\BetaConversionFixBF1.pdb
+Z:\Projects\BetaConversionFixBF1\BetaConversionFixBF1\bin\Release\netcoreapp3.1\publish\BetaConversionFixBF1.exe
